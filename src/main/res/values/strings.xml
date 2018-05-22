@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cst_300_major_proseminar">CST 300: Major ProSeminar</string>
+    <string name="cst_205_multimedia_design_and_programming">CST 205: Multimedia Design and Programming</string>
+    <string name="cst_363_introduction_to_database_systems">CST 363: Introduction to Database Systems</string>
+    <string name="cst_336_internet_programming">CST 336: Internet Programming</string>
+    <string name="cst_311_intro_to_computer_networks">CST 311: Intro to Computer Networks</string>
+    <string name="cst_361s_technology_tutors">CST 361S: Technology Tutors</string>
+    <string name="cst_338_software_design">CST 338: Software Design</string>
+    <string name="cst_373_ethics_in_tech_and_comm">CST 373: Ethics in Tech and Comm</string>
+    <string name="cst_370_design_and_analysis_of_algorithms">CST 370: Design and Analysis of Algorithms</string>
+    <string name="cst_438_software_engineering">CST 438: Software Engineering</string>
+    <string name="cst_499_directed_group_capstone">CST 499: Directed Group Capstone</string>
+    <string name="elective_if_needed">Elective ( if needed )</string>
+    <string name="graduate">Graduate</string>
+</resources>

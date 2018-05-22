@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.devorahakhamzadeh.myapplication.MainActivity">
+
+    <LinearLayout
+        android:layout_width="411dp"
+        android:layout_height="589dp"
+        android:layout_marginLeft="0dp"
+        android:orientation="vertical"
+        app:layout_constraintLeft_toLeftOf="parent"
+        tools:layout_editor_absoluteY="7dp">
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="368dp"
+            android:layout_height="93dp"
+            app:srcCompat="@drawable/logo" />
+
+        <CheckBox
+            android:id="@+id/checkBox10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_300_major_proseminar" />
+
+        <CheckBox
+            android:id="@+id/checkBox11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_205_multimedia_design_and_programming" />
+
+        <CheckBox
+            android:id="@+id/checkBox12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_363_introduction_to_database_systems" />
+
+        <CheckBox
+            android:id="@+id/checkBox13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_336_internet_programming" />
+
+        <CheckBox
+            android:id="@+id/checkBox14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_311_intro_to_computer_networks" />
+
+        <CheckBox
+            android:id="@+id/checkBox15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_361s_technology_tutors" />
+
+        <CheckBox
+            android:id="@+id/checkBox16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_338_software_design" />
+
+        <CheckBox
+            android:id="@+id/checkBox17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_373_ethics_in_tech_and_comm" />
+
+        <CheckBox
+            android:id="@+id/checkBox18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_370_design_and_analysis_of_algorithms" />
+
+        <CheckBox
+            android:id="@+id/checkBox19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_438_software_engineering" />
+
+        <CheckBox
+            android:id="@+id/checkBox20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/cst_499_directed_group_capstone" />
+
+        <CheckBox
+            android:id="@+id/checkBox21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#2F4F4F"
+            android:text="@string/elective_if_needed" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="59dp"/>
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:text="@string/graduate"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="499dp" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
